@@ -4,8 +4,8 @@ import React from 'react'
 const Mail = () => {
   return (
     <>
-    <Typography variant='h2'>Mail us</Typography>
-    <Typography varient='body1'> Please mail us to text@gmail.com</Typography>
+    <Typography variant='h4'>Mail</Typography>
+    <Typography varient='body1' color='grey'> Please mail us to text@gmail.com</Typography>
     </>
   )
 }

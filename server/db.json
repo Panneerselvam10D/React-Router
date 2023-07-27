@@ -1,0 +1,21 @@
+{
+    "careers" : [
+        {
+            "id" : 1,
+            "title" : "React developer",
+            "salary" : 130000,
+            "location" : "Chennai"
+        },
+        {
+            "id" : 2,
+            "title" : ".Net developer",
+            "salary" : 110000,
+            "location" : "Madurai"
+        },   {
+            "id" : 3,
+            "title" : "java developer",
+            "salary" : 100000,
+            "location" : "Trichy"
+        }
+    ]
+}

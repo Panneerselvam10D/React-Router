@@ -28,6 +28,7 @@ const NavBar = () => {
                     <StyledNavLink to='/'>Home</StyledNavLink>
                     <StyledNavLink to='About'>About</StyledNavLink>
                     <StyledNavLink to= 'Contact'>Contact</StyledNavLink>
+                    <StyledNavLink to= 'Careers'>Careers</StyledNavLink>
                 </Box>
             </Toolbar>
             </Container>
